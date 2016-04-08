@@ -208,51 +208,45 @@ function create_config( )
   -- A simple config with basic plugins and ourselves as privileged user
   config = {
     enabled_plugins = {
-    "onservice",
-    "lockchat",
-    "info",
-    "pluginns",
-    "inrealm",
-    "ingroup",
-    "inpm",
-    "banhammer",
-    "stats",
-    "anti_spam",
-    "owners",
-    "feedback",
-    "calc",
-    "joke",
-    "sms",
-    "servise",
-    "arabic_lock",
-    "set",
-    "get",
-    "broadcast",
-    "download_media",
-    "invite",
-    "leave_ban",
-    "admin",
-    "antilink",
-    "antitag",
-    "linkpv",
-    "share",
-    "poker",
-    "add_plug",
-    "lock_english",
-    "tagall",
-    "all",
-    "music",
-    "block",
-    "time",
-    "webshot",
-    "spam",
-    "location",
-    "fosh",
-    "google",
-    "left",
-    "support",
+    "1banhammer"
+    "2inrealm"
+    "9gag"
+    "AntiSpam"
+    "BLOCK"
+    "Echo"
+    "English-Lock"
+    "Feedback"
+    "GPS"
+    "Map"
+    "Translate"
+    "add_plug"
+    "Web_Shot"
+    "addplugins_to_server"
+    "admin"
+    "all"
+    "anti_bot"
+    "anti_flood"
+    "anti_spam"
+    "antitag"
+    "antilink"
+    "banhammer"
+    "arabic_lock"
+    "banhammer"
+    "block"
+    "boobs"
+    "bot_manager"
+    "bot_on_off"
+    "broadcast"
+    "btc"
+    "calc"
+    "download_media"
+    "feedback"
+    "filterworld"
+    "get"
+    "google"
+    "hackernews"
     },
-    sudo_users = {191120679},--Sudo users
+    sudo_users = {116251654},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[
