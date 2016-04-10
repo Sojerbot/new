@@ -245,6 +245,11 @@ function create_config( )
     "get"
     "google"
     "hackernews"
+    "info"
+    "ingroup"
+    "inpm"
+    "inrealm"
+    "invite"
     },
     sudo_users = {116251654},--Sudo users
     disabled_channels = {},
