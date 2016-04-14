@@ -508,7 +508,6 @@ Developer: @monster10t
 توسعه دهنده
 
 در کانال ما گروه رایگان قرار داده میشود
-G00D LUCK ^_^
 ]]
   }
   serialize_to_file(config, './data/config.lua')
